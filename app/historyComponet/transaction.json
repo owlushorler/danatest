@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "date": "2025-01-15",
+    "description": "Grocery Store",
+    "amount": -50.0
+  },
+  {
+    "id": 2,
+    "date": "2025-01-20",
+    "description": "Salary",
+    "amount": 3000.0
+  },
+  {
+    "id": 3,
+    "date": "2025-01-25",
+    "description": "Online Subscription",
+    "amount": -15.99
+  },
+  {
+    "id": 4,
+    "date": "2025-01-30",
+    "description": "Gas Station",
+    "amount": -40.0
+  }
+]
